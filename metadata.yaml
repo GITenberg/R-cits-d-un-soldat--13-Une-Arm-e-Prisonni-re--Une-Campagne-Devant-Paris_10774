@@ -1,0 +1,34 @@
+_repo: R-cits-d-un-soldat--13-Une-Arm-e-Prisonni-re--Une-Campagne-Devant-Paris_10774
+_version: 0.0.1
+alternative_title: Recits d'un soldat
+creator:
+  author:
+    agent_name: Achard, Amédée
+    aliases:
+    - Achard, Amedee
+    - Achart, A. (Amédée)
+    - Achard, Louis Amedee Eugene
+    - Achard, Louis Amédée Eugène
+    birthdate: 1814
+    deathdate: 1875
+    gutenberg_agent_id: '3678'
+    url: http://www.gutenberg.org/2009/agents/3678
+    wikipedia: http://fr.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Achard
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouvelles
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10774'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franco-Prussian War, 1870-1871 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: "Récits d'un soldat\r\nUne Armée Prisonnière; Une Campagne Devant Paris"
+url: http://www.gutenberg.org/ebooks/10774
