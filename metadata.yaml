@@ -1,6 +1,9 @@
 _repo: R-cits-d-un-soldat--13-Une-Arm-e-Prisonni-re--Une-Campagne-Devant-Paris_10774
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Recits d'un soldat
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Achard, Amédée
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3678
     wikipedia: http://fr.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Achard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10774#R-cits-d-un-soldat--13-Une-Arm-e-Prisonni-re--Une-Campagne-Devant-Paris
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouvelles
